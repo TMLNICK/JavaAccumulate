@@ -1,3 +1,9 @@
+
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class PageListUtils {
     /**
      * 分页函数
@@ -32,3 +38,4 @@ public class PageListUtils {
     }
 
 }
+
