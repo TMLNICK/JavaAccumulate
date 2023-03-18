@@ -9,8 +9,8 @@
         <module name="JavaUtils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JavaUtils" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="JavaUtils" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
